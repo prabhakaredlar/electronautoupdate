@@ -1,0 +1,10 @@
+/electron-builder.yml
+/node_modules
+/dist
+
+/index.js
+/index.html
+
+# lock files
+yarn.lock
+package-lock.json
